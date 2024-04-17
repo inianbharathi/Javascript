@@ -4,3 +4,4 @@
 # Love Calculator with if statements
 # bmi conditional calculator
 # Leap year calculator
+# Name Validator to capitalize first letter of a name
