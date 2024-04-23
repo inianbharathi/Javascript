@@ -16,3 +16,4 @@ Leap Year Calculator,
 Array Entry Pass includes,
 fizz buzz push to array,
 random select from a array,
+fizzbuzz inside a while loop.
