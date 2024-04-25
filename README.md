@@ -17,3 +17,4 @@ Array Entry Pass includes,
 fizz buzz push to array,
 random select from a array,
 fizzbuzz inside a while loop.
+99 bottles of beer -while loop
