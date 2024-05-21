@@ -19,3 +19,6 @@ random select from a array,
 fizzbuzz inside a while loop.
 99 bottles of beer -while loop
 Fibonacci Generator
+
+DOM
+Selecting a element with document query selctor
