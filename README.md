@@ -21,4 +21,8 @@ fizzbuzz inside a while loop.
 Fibonacci Generator
 
 DOM
-Selecting a element with document query selctor
+Selecting a element with document query selector .querySelector("h1");
+dom manipulation using a class list, add, remove, toggle .classList.add("className");
+dom manipulation using .innerHTML and attributes .innnerHTML="<em>inian</em>";
+dom maninpulation using .textcontent to change only content .textContent="inian";
+dom manipulation of HTML attribute .setAttribute("href", "http://www.bing.com");
