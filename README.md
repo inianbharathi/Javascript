@@ -26,3 +26,4 @@ dom manipulation using a class list, add, remove, toggle .classList.add("classNa
 dom manipulation using .innerHTML and attributes .innnerHTML="<em>inian</em>";
 dom maninpulation using .textcontent to change only content .textContent="inian";
 dom manipulation of HTML attribute .setAttribute("href", "http://www.bing.com");
+Event Listners
