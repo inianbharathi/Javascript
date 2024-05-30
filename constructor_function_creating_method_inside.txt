@@ -1,0 +1,9 @@
+function HouseKeeper(name,yearsOfExperience){
+    this.name=name;
+    this.yearsOfExperience=yearsOfExperience;
+    this.clean=function(){
+        alert("Cleaning in progress");
+    }
+}
+
+var houseKeeper1= new HouseKeeper("Andal Amma",10);
